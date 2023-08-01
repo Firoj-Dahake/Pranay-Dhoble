@@ -1,4 +1,4 @@
-![logo](https://github.com/Pranay-Dhoble/Pranay-Dhoble/blob/main/Pranay%20Dhoble%20(1).png)
+![logo](https://www.canva.com/design/DAFqVUDZK8w/2yAoRp5KQ-ReWRctJBCwtw/watch?utm_content=DAFqVUDZK8w&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel)
 <h1 align="center">Hi 👋, I'm Pranay Dhoble</h1>
 <h3 align="center">Innovating Lines of Code: Writing the Future</h3>
 
