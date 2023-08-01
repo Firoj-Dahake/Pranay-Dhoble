@@ -1,4 +1,4 @@
-![logo](https://github.com/Pranay-Dhoble/Pranay-Dhoble/blob/main/Pranay%20Dhoble%20(1).png)
+![logo](https://github.com/Pranay-Dhoble/Pranay-Dhoble/blob/main/Pranay.mp4)
 <h1 align="center">Hi 👋, I'm Pranay Dhoble</h1>
 <h3 align="center">Innovating Lines of Code: Writing the Future</h3>
 
