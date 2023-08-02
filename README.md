@@ -1,6 +1,6 @@
-![logo](https://github.com/Pranay-Dhoble/Pranay-Dhoble/blob/main/Pranay%20Dhoble%20(1).png)
+![logo](https://github.com/Pranay-Dhoble/Pranay-Dhoble/blob/main/Pranay%20Dhoble%20(2).png)
 <h1 align="center">Hi 👋, I'm Pranay Dhoble</h1>
-<h3 align="center">Innovating Lines of Code: Writing the Future</h3>
+<h3 align="center">Salesforce Developer, Java Developer, IOT Developer</h3>
 
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:679/0*7Q3yvSIv_t0ioJ-Z.gif">
 
