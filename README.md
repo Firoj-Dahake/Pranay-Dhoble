@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Custom IOT Device**
 
-- 🌱 I’m currently learning **Java Full Stack, IOT**
+- 🌱 I’m currently learning **Java Stack Full , IOT**
 
 - 📫 How to reach me **pranay.dhoble2002@gmail.com**
 
